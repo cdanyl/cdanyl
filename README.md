@@ -1,5 +1,5 @@
 # Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
-I like building things that need to get big. Whether that is technology or a business, I am interested how to scale them. I specialize in Golang, NodeJS, NextJS, ELK, React, NextJS, Angular and Docker.
+I enjoy building things that need to get big. Interested in scaling technology and businesses, and I specialize in Golang, Node.js, Next.js, ELK, React, Angular, and Docker.
 
 <a href="mailto:ch.danyl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/danylchader"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
